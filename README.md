@@ -98,11 +98,11 @@ query getCategorias{
 Estructura del Proyecto
 
 src/
-├── Data                 # Clases de contexto
-├── GraphQL              # Configuración y definiciones de Queries y Mutations
-├── Models               # Entidades principales
-├── Migrations           # Definicion de migraciones
-└── Program.cs           # Configuración principal
+ - Data                 # Clases de contexto
+ - GraphQL              # Configuración y definiciones de Queries y Mutations
+ - Models               # Entidades principales
+ - Migrations           # Definicion de migraciones
+ - Program.cs           # Configuración principal
 
 ## Contribución
 
