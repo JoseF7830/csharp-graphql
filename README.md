@@ -114,9 +114,9 @@ src/
 
 Realiza tus cambios y haz un commit:
 
-- git commit -m "Agrega una nueva funcionalidad"
+- git commit -m "Agrego una nueva funcionalidad"
 
-- Envía un pull request.
+- Envía un Pull Request.
 
 ## Licencia
 
